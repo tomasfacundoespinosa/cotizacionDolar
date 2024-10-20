@@ -10,8 +10,8 @@ Este proyecto desarrollado en Flutter sirve para consultar y visualizar la cotiz
 
 ## Instalación
 
-git clone  
-
+git clone https://github.com/tomasfacundoespinosa/cotizacionDolar.git
+ 
 cd cotizacionDolar
 
 flutter pub get
