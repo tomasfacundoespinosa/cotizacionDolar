@@ -1,6 +1,6 @@
 # Dólar Cotización App
 
-Este proyecto desarrollado en Flutter sirve para consultar y visualizar la cotización del dólar. La aplicación obtiene los datos de la API dolarapi.com y permite ver las variaciones del dólar a lo largo del tiempo.
+Este proyecto desarrollado en Flutter sirve para consultar y visualizar la cotización del dólar. La aplicación obtiene los datos de la API [dolarapi.com](https://dolarapi.com/v1/dolares) y permite ver las variaciones del dólar a lo largo del tiempo.
 
 ## Características
 
